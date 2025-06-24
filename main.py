@@ -10,4 +10,3 @@ print("wkwk")
 
 print(add(5,1))
 print(sub(5,5))
-# awokkawo
