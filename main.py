@@ -4,7 +4,7 @@ print("Ini main.py ke 2")
 print("adwckoadcwokoadcwk")
 
 
-
+print("wkwk")
 
 
 
