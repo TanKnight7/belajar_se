@@ -1,0 +1,2 @@
+def wkwk():
+    return "wkwk"
